@@ -4,7 +4,7 @@ Fedex Remote Areas List
 
 The JSON file is created from the Fedex International Out-of-delivery-area And Out-of-pickup-area Surcharges List
 
-Current version is from the Jul 23, 2018 PDF https://www.fedex.com/content/dam/fedex/us-united-states/services/Zipcodes_OPA_ODA.pdf
+Current version is from the Jul 20, 2020 PDF https://www.fedex.com/content/dam/fedex/us-united-states/services/Zipcodes_OPA_ODA.pdf
 
 ## Objectives
 
